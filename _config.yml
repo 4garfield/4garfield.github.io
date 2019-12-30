@@ -62,21 +62,27 @@ author:
   bio    : "Learning makes people progress"
   location : "Shanghai, China"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/garfield_song"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/4garfield"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/garfield_song"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/4garfield"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/garfield_song"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/4garfield"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/garfield_song"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/4garfield"
 
 defaults:
   # _posts
@@ -112,6 +118,11 @@ google_site_verification: "zxs0RPAS1pSgTT_ErENgLmxaCHE7tONDw-dBohVL0lQ"
 
 twitter:
   username: "garfield_song"
+facebook:
+  username: "4garfield"
+
+teaser: /assets/images/teaser-fallback.png
+og_image: /assets/images/avatar/myself.jpg
 
 analytics:
   provider: "google-gtag"
