@@ -30,7 +30,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:year/:month/:day/:title
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -106,6 +106,17 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "4garfield"
+
+#SEO
+google_site_verification: "zxs0RPAS1pSgTT_ErENgLmxaCHE7tONDw-dBohVL0lQ"
+
+twitter:
+  username: "garfield_song"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-90263726-5"
 
 compress_html:
   clippings: all
