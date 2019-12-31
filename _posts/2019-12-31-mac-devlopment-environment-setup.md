@@ -259,7 +259,7 @@ Installation by: `brew install php`, then start as service: `brew services start
 
 To enable PHP in Apache httpd server, add the following to `httpd.conf` and restart Apache:
 
-```aconf
+```apache
 LoadModule php7_module /usr/local/opt/php/lib/httpd/modules/libphp7.so
 
 <FilesMatch \.php$>
