@@ -1,6 +1,6 @@
 ---
 title: "Mac Development Environment Setup"
-date: 2019-12-31 18:19 +0800
+date: 2019-12-31T18:19:30+08:00
 tags:
   - mac
   - brew
