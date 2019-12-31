@@ -1,6 +1,6 @@
 ---
 title: "Mac Development Environment Setup"
-date: 2019-12-31T18:19:30+08:00
+date: 2019-12-31 18:19:30 +0800
 tags:
   - mac
   - brew
@@ -124,6 +124,7 @@ POWERLEVEL9K_MODE='nerdfont-complete'
 Then customize powerlevel9k in `~/.zshrc`:
 
 ```sh
+{% raw %}
 POWERLEVEL9K_STATUS_VERBOSE=false
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
@@ -134,6 +135,7 @@ POWERLEVEL9K_OS_ICON_FOREGROUND="black"
 POWERLEVEL9K_TIME_FORMAT="%D{%H:%M:%S}"
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon dir vcs)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status load battery time)
+{% endraw %}
 ```
 
 Configure the zsh [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins):
