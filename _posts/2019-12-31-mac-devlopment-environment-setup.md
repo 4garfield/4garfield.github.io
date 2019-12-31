@@ -1,6 +1,7 @@
 ---
 title: "Mac Development Environment Setup"
 date: 2019-12-31 18:19:30 +0800
+layout: splash
 header:
   teaser: "/assets/images/headers/mac-development-setup-header.jpg"
 tags:
