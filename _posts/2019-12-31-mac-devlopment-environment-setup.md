@@ -3,7 +3,7 @@ title: "Mac Development Environment Setup"
 date: 2019-12-31 18:19:30 +0800
 header:
   image: "/assets/images/headers/mac-development-setup-header.jpg"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/xrVDYZRGdw4)"
 tags:
   - mac
   - brew
