@@ -230,7 +230,7 @@ Test the configuration: `dig @127.0.0.1 -q foobar.localhost`, the successful res
 
 ```sh
 ;; ANSWER SECTION:
-foobar.localhost.	0	IN	A	127.0.0.1
+foobar.localhost.   0   IN   A   127.0.0.1
 ```
 
 On most UNIX-like systems the `/etc/resolv.conf` file determines how DNS queries are made. It's better to add separate resolver files inside the `/etc/resolver/` directory.
