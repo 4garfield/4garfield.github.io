@@ -16,7 +16,7 @@
 title: Song Bintao's blog
 email: songbintaochina@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog posts for the development experience. 
+  Blog posts for the development experience.
 twitter_username: garfield_song
 github_username: 4garfield
 minimal_mistakes_skin: mint
@@ -121,7 +121,7 @@ twitter:
 facebook:
   username: "4garfield"
 
-teaser: /assets/images/teaser-fallback.png
+teaser: /assets/images/teaser-fallback.jpg
 og_image: /assets/images/avatar/myself.jpg
 
 analytics:
