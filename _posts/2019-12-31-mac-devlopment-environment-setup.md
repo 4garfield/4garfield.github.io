@@ -3,6 +3,7 @@ title: "Mac Development Environment Setup"
 date: 2019-12-31 18:19:30 +0800
 header:
   image: "/assets/images/headers/mac-development-setup-header.jpg"
+  teaser: "/assets/images/headers/mac-development-setup-teaser.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/xrVDYZRGdw4)"
 tags:
   - mac
