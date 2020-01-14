@@ -3,6 +3,7 @@ title: "Build Angular Universal Application Series 1: Transform to Angular Unive
 date: 2020-01-12 17:44:09 +0800
 header:
   image: "/assets/images/headers/build-angular-universal-application-series-1-transform-to-angular-universal-header.jpg"
+  teaser: "/assets/images/headers/build-angular-universal-application-series-1-transform-to-angular-universal-teaser.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/XnvLe0u9iM8)"
 tags:
   - ssr

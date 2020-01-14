@@ -3,6 +3,7 @@ title: "Using Shadowsocks"
 date: 2020-01-01 01:13:50 +0800
 header:
   image: "/assets/images/headers/using-shadowsocks-header.jpg"
+  teaser: "/assets/images/headers/using-shadowsocks-teaser.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/MSWD-PDMizQ)"
 tags:
   - shadowsocks

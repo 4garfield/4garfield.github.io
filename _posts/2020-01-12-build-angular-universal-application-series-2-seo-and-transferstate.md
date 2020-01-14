@@ -3,6 +3,7 @@ title: "Build Angular Universal Application Series 2: SEO and TransferState"
 date: 2020-01-12 18:23:17 +0800
 header:
   image: "/assets/images/headers/build-angular-universal-application-series-2-seo-and-transferstate-header.jpg"
+  teaser: "/assets/images/headers/build-angular-universal-application-series-2-seo-and-transferstate-teaser.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/_st8-JkLstI)"
 tags:
   - angular universal
