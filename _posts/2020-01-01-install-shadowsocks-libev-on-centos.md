@@ -1,5 +1,5 @@
 ---
-title: "Using Shadowsocks"
+title: "Install shadowsocks-libev on Centos"
 date: 2020-01-01 01:13:50 +0800
 header:
   image: "/assets/images/headers/using-shadowsocks-header.jpg"
@@ -10,7 +10,7 @@ tags:
 toc: true
 ---
 
-Shadowsocks is a fast tunnel proxy. This article will show how to use shadowsocks on CentOS 7.
+Shadowsocks is a fast tunnel proxy. This article will show how to install shadowsocks-libev on CentOS 7.
 
 ## Server
 
@@ -124,7 +124,7 @@ then, restart the service: `/etc/init.d/shadowsocks-libev restart`.
 
 ### v2ray plugin at client
 
-Installation steps:
+From v1.9.0, the ShadowsocksX-NG has provide the v2-ray-plugin by default. If you're runing older version, you can follow below steps to install:
 
 ```sh
 cd $HOME/Library/Application\ Support/ShadowsocksX-NG/plugins/

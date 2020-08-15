@@ -10,7 +10,7 @@ tags:
 toc: true
 ---
 
-This is the first series for build angular universal application: SEO and transferstate.
+This is the second series for build angular universal application: SEO and transferstate.
 
 ## SEO for Angular Universal
 
